@@ -1,0 +1,1 @@
+/bin/c++    -rdynamic CMakeFiles/prueba.dir/matplotPrueba.o  -o prueba   -L/home/alberto/pruebasCC/matplotplusplus/source/matplot  -L/home/alberto/pruebasCC/matplotplusplus/source/3rd_party  matplotplusplus/source/matplot/libmatplot.a -ljpeg -ltiff -lz -lpng -lz -lpng -llapack -lblas -lpthread matplotplusplus/source/3rd_party/libnodesoup.a 
