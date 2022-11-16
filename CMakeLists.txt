@@ -1,5 +1,3 @@
-
-
 project(TriangulacionDeDelaunay)
 	
 add_subdirectory(matplotplusplus)
